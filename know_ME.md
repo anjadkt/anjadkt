@@ -1,20 +1,13 @@
 <!-- Header -->
-<h1 align="center">Hey there 👋, I'm AJU</h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>, I'm ANJAD</h1>
 <h3 align="center">🚀 Passionate Student | Web Developer | Lifelong Learner</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>
-</p>
 
 ---
 
 ### 💡 About Me
-- 🎓 I’m a **student developer** currently exploring the world of **MERN stack**  
+- 🎓 I’m a **developer** currently exploring the world of **MERN stack**  
 - 💻 Skilled in **HTML, CSS, JavaScript, React**, and now learning **Node.js & Express**  
 - 🚀 Love turning ideas into interactive, user-friendly websites  
-- 📘 Currently learning about **backend development & APIs**  
-- ⚡ Fun fact: I fix bugs faster when I have snacks nearby 🍪  
-
 ---
 
 ### 🛠️ Tech Stack
