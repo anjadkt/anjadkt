@@ -6,4 +6,4 @@
 🚀 Currently learning: Backend development with Node.js  
 🌱 Fun fact: I break code just to fix it better 😅  
 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/anjadkt) | [Portfolio](https://anjad.netlify.app/))
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/anjadkt) | [Portfolio](https://anjad.netlify.app/)
