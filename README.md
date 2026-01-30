@@ -31,16 +31,6 @@
 - **[Footster](https://footster.vercel.app)** – A premium e-commerce experience for footwear.
 - **[Weresto](https://webresto-one.vercel.app)** – Modern restaurant management and ordering solution.
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjadkt&show_icons=true&theme=tokyonight" alt="Anjad's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjadkt&theme=tokyonight" alt="Anjad's Streak" />
-</div>
-
----
-
 ### 🌍 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/anjadkt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
