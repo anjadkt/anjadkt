@@ -3,7 +3,6 @@
   <p><strong>MERN Stack Developer | Real-time Web Enthusiast</strong></p>
 </div>
 
----
 
 ### 💡 About Me
 - 🎓 **Full Stack Developer** specializing in the **MERN stack**.
