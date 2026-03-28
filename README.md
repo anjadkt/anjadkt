@@ -39,12 +39,6 @@ Currently improving my problem-solving skills and exploring modern web technolog
   👉 https://webresto-one.vercel.app
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjadkt&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjadkt&theme=radical" />
-</p>
-
 ### 🌍 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/anjadkt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
